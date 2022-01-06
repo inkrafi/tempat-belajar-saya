@@ -9,5 +9,8 @@ Kelas yang saya beli di BwA:
 1. Fullstack Web Dev: Website Travel
 2. Fullstack Web Dev: PHP Laravel & Vue JS
 
+# Udemy
+Saya membeli kelas web development di udemy karena sedang promo dan menurut saya akan bagus juga jika mendapat sertifikat dari udemy
 
-Selanjutnya juga akan ada rencana untuk belajar di progate.com
+# freeCodeCamp.org
+Saya tahu website ini dari Pak Sandhika, bisa dapat sertifikat juga dengan mengerjakan course yang ada disana. Dan freeCodeCamp ini gratis!
